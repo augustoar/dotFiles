@@ -1,0 +1,26 @@
+[user]
+	email = dev@augustoramos.tech
+	name = Augusto Ramos
+
+[core]
+	editor = code --wait
+
+[merge]
+	tool = vscode
+
+[mergetool "vscode"]
+	cmd = code --wait $MERGED
+
+[diff]
+	tool = vscode
+
+[difftool "vscode"]
+	cmd = code --wait --diff
+
+[color]
+	diff = auto
+	grep = auto
+	interactive = auto
+	status = auto
+	branch = auto
+	status = auto
