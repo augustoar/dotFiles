@@ -8,6 +8,7 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension codingyu.laravel-goto-view
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
+code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension eamodio.gitlens
 code --install-extension ecmel.vscode-html-css
 code --install-extension EditorConfig.EditorConfig
@@ -17,6 +18,7 @@ code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.remote-containers
+code --install-extension octref.vetur
 code --install-extension onecentlin.laravel-blade
 code --install-extension onecentlin.laravel5-snippets
 code --install-extension PKief.material-icon-theme
